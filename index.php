@@ -99,7 +99,7 @@
                         <div>
                            
                             &middot;
-                            <a href="#" id="terminos">Terminos &amp; Condiciones</a>
+                            <a href="terminosYCondiciones" id="terminos">Terminos &amp; Condiciones</a>
                         </div>
                     </div>
                 </div>
