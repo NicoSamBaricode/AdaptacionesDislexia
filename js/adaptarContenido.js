@@ -55,7 +55,7 @@ class AdaptadorContenido {
         // Realizar la solicitud AJAX a ajaxconexionapi.php
         $.ajax({
             type: 'POST',
-            url: 'ajaxconexionapi.php',
+            url: 'ajaxConexionApi.php',
             data: {
                 texto: textoEntrada
             },
